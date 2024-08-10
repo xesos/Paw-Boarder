@@ -20017,9 +20017,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: caa5cf84a346b0d42ad01dc43974bcdc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delayReloadScene: 1
+  delayReloadScene: 3
   finishEffect: {fileID: 1654132679}
-  crashSFX: {fileID: 8300000, guid: 396be311978cc654c961f7b2bb8d731e, type: 3}
+  crashSFX: {fileID: 8300000, guid: 23475b49dc12ead4b9816879ff7d6ff0, type: 3}
 --- !u!114 &520542089
 MonoBehaviour:
   m_ObjectHideFlags: 0
